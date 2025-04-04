@@ -22,7 +22,9 @@ git clone https://github.com/JyothiNallabilli/TicTacToeGame.git
 cd TicTacToeGame
 
 Compile & Run
-javac -d out src/*.java  
+
+javac -d out src/*.java
+
 java -cp out Main  
 
 💡 Future Enhancements
