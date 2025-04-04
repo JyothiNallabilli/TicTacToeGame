@@ -18,6 +18,7 @@ The game asks if you want to play again.
 Clone the Repository
 
 git clone https://github.com/JyothiNallabilli/TicTacToeGame.git
+
 cd TicTacToeGame
 
 Compile & Run
